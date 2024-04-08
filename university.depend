@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1712520543 source:c:\users\theexpert\desktop\library proj\university\university\main.cpp
+	<iostream>
+	<string>
+	"salaried_employee.h"
+	"student.h"
+	"teaching_Assistant.h"
+	"employee.h"
+
+1712520632 source:c:\users\theexpert\desktop\library proj\university\university\src\person.cpp
+	"person.h"
+
+1712411114 c:\users\theexpert\desktop\library proj\university\university\include\person.h
+	<iostream>
+	<string>
+
+1712520712 source:c:\users\theexpert\desktop\library proj\university\university\src\student.cpp
+	"student.h"
+
+1712503917 c:\users\theexpert\desktop\library proj\university\university\include\student.h
+	<iostream>
+	<string>
+	"person.h"
+
+1712417939 source:c:\users\theexpert\desktop\library proj\university\university\src\employee.cpp
+	"employee.h"
+
+1712417925 c:\users\theexpert\desktop\library proj\university\university\include\employee.h
+	<iostream>
+	<string>
+	"person.h"
+
+1712520712 source:c:\users\theexpert\desktop\library proj\university\university\src\salaried_employee.cpp
+	"salaried_employee.h"
+
+1712433005 c:\users\theexpert\desktop\library proj\university\university\include\salaried_employee.h
+	<iostream>
+	<string>
+	"person.h"
+	"employee.h"
+
+1712520712 source:c:\users\theexpert\desktop\library proj\university\university\src\hourly_employee.cpp
+	"hourly_employee.h"
+
+1712435833 c:\users\theexpert\desktop\library proj\university\university\include\hourly_employee.h
+	<iostream>
+	<string>
+	"person.h"
+	"employee.h"
+
+1712520712 source:c:\users\theexpert\desktop\library proj\university\university\src\teaching_assistant.cpp
+	"teaching_Assistant.h"
+
+1712519638 c:\users\theexpert\desktop\library proj\university\university\include\teaching_assistant.h
+	<iostream>
+	<string>
+	"person.h"
+	"employee.h"
+
